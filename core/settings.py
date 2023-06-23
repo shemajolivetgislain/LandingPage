@@ -25,6 +25,9 @@ INSTALLED_APPS = [
 
     # Django REST Framework
     'rest_framework',
+
+        #swagger ui dependencies
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [

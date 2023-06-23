@@ -30,8 +30,8 @@ python manage.py runserver
 ## step7: urls navigations
 
 <!-- for admin site -->
--http://127.0.0.1:8000/admin
--http://127.0.0.1:8000/api/v1/about/
--http://127.0.0.1:8000/api/v1/mission/
--http://127.0.0.1:8000/api/v1/vision/
--http://127.0.0.1:8000/api/v1/objective/
+http://127.0.0.1:8000/admin
+http://127.0.0.1:8000/api/v1/about/
+http://127.0.0.1:8000/api/v1/mission/
+http://127.0.0.1:8000/api/v1/vision/
+http://127.0.0.1:8000/api/v1/objective/
